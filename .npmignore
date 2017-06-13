@@ -1,0 +1,10 @@
+node_modules
+.idea
+src/
+lib/__test__
+.*
+*.md
+examples
+gulpfile.*
+coverage
+decls
